@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqeT6RxmO3Pz7MGLdH11hKfphB3IvNkhaJEDU9Y2aOn1EtHpQw28QxaIPRlPXsLXxvw3+EEeyxd8+fJj3G7vhw==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\jmdne\\source\\repos\\CarteiraImobDDDCore\\CadastroImoveisContext.Domain\\CadastroImoveisContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmdne\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\jmdne\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jmdne\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\bin\Debug\netstandard2.0\CadastroImoveisContext.Shared.deps.json
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\bin\Debug\netstandard2.0\CadastroImoveisContext.Shared.dll
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\bin\Debug\netstandard2.0\CadastroImoveisContext.Shared.pdb
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.csprojAssemblyReference.cache
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.AssemblyInfoInputs.cache
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.AssemblyInfo.cs
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.dll
+C:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.pdb
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\bin\Debug\netstandard2.0\CadastroImoveisContext.Shared.deps.json
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\bin\Debug\netstandard2.0\CadastroImoveisContext.Shared.dll
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\bin\Debug\netstandard2.0\CadastroImoveisContext.Shared.pdb
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.csprojAssemblyReference.cache
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.AssemblyInfoInputs.cache
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.AssemblyInfo.cs
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.csproj.CoreCompileInputs.cache
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.dll
+E:\Users\jmdne\source\repos\CarteiraImobDDDCore\CadastroImoveisContext.Shared\obj\Debug\netstandard2.0\CadastroImoveisContext.Shared.pdb
